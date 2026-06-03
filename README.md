@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Sourish Giri 👋
 
-<!--
-**Sourish2006/Sourish2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc IT Cyber Security Student
 
-Here are some ideas to get you started:
+🔐 Passionate about Cyber Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Python Programmer
+
+🐧 Learning Linux and Networking
+
+💻 Building Security Tools
+
+## Skills
+
+- Python
+- C
+- SQL
+- Linux
+- Networking
+- Git & GitHub
+
+## Projects
+
+- Password Strength Checker
+- Port Scanner
+- Network Scanner
+- File Encryption Tool
+
+## Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/sourish-giri-804a23343
+
+
+Email:
+girisourish415@gmail.com
